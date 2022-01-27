@@ -25,4 +25,4 @@ Made with [contrib.rocks](https://contrib.rocks).
 - HTML & CSS
 
 ## Questions
-My GitHub repo is  , you can see the deployed app using this link
+My GitHub repo is  https://github.com/aidyel?tab=repositories, you can see the deployed app using this link https://aidyel.github.io/refractor/
