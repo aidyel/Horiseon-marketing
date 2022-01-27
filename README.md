@@ -2,7 +2,7 @@
 
 
 ## Description
-
+This is a marketing website that allows businesses to promote their websites and helps them find the most suitable customers.
 
 ![Alt text]link "Refractor")
 ## Table of Contents
